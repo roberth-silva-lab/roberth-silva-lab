@@ -161,7 +161,7 @@ Esses projetos ainda estão em fase de desenvolvimento e serão publicados em br
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
 </a>
 
-<a href="https://wa.me/5567996277164">
+<a href="https://wa.me/5567996741402">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge">
 </a>
 
