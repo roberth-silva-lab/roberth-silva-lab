@@ -141,14 +141,6 @@ Esses projetos ainda estão em fase de desenvolvimento e serão publicados em br
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=roberth-silva-lab&theme=tokyonight"/>
-</p>
-
----
-
 # 🌐 Redes sociais
 
 <p align="center">
