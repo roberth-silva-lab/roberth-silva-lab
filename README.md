@@ -190,7 +190,8 @@ Projeto de uma plataforma própria para gerenciamento e reprodução de músicas
 
 O projeto envolve aplicativo mobile, API, armazenamento de mídia e infraestrutura própria utilizando servidor Linux.
 
-> 🚧 Projeto atualmente em desenvolvimento.
+🌐 **Projeto online:**
+https://vibex-site.pythonocr7.workers.dev/
 
 ---
 
@@ -300,17 +301,6 @@ Linux
 
 ---
 
-# 📊 Estatísticas GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberth-silva-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberth-silva-lab&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🐍 Contribuições
 
