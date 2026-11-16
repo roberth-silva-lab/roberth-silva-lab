@@ -191,7 +191,7 @@ Projeto de uma plataforma própria para gerenciamento e reprodução de músicas
 O projeto envolve aplicativo mobile, API, armazenamento de mídia e infraestrutura própria utilizando servidor Linux.
 
 🌐 **Projeto online:**
-https://vibex-site.pythonocr7.workers.dev/
+https://vibex.gabineteitinerante.com.br/
 
 ---
 
