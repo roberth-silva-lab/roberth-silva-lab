@@ -1,336 +1,179 @@
 <h1 align="center">Olá 👋, sou Roberth Arnaldo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Desenvolvimento+Backend+%26+APIs;Python+%7C+FastAPI+%7C+Java;Flutter+%26+Aplicações+Web;IA+%26+Visão+Computacional;Transformando+ideias+em+projetos+reais" />
+  <img src="https://readme-typing-svg.demolab.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Desenvolvimento+Backend+%26+APIs;Python+%7C+FastAPI+%7C+TypeScript;Flutter+%26+Aplica%C3%A7%C3%B5es+Web;IA+%26+Vis%C3%A3o+Computacional;Transformando+ideias+em+projetos+reais" alt="Desenvolvimento Backend & APIs · Python | FastAPI | TypeScript · Flutter & Aplicações Web · IA & Visão Computacional" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roberth-silva-lab.roberth-silva-lab" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=roberth-silva-lab.roberth-silva-lab" alt="Visitantes" />
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor em formação, com foco na criação de **APIs, sistemas web, aplicativos, automações e soluções utilizando visão computacional e inteligência artificial**.
+Desenvolvedor focado em **APIs, sistemas web, aplicativos Android e automações**, com projetos próprios **no ar e em uso real**, do código ao servidor Linux.
 
-🎓 Concluindo **Análise e Desenvolvimento de Sistemas no IFMS — Campus Corumbá**
-🎓 Curso concluído academicamente, aguardando a definição da **data de colação de grau**
-📍 Corumbá — Mato Grosso do Sul, Brasil
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** pelo **IFMS — Campus Corumbá** (curso concluído, aguardando a colação de grau)
+- 🛠️ Atuo profissionalmente com **Suporte de TI**: atendimento a usuários, diagnóstico de incidentes, estações de trabalho, conectividade e infraestrutura
+- 📍 Corumbá — Mato Grosso do Sul, Brasil
 
-Atualmente também atuo profissionalmente com **Suporte de TI**, trabalhando com atendimento a usuários, diagnóstico de incidentes, estações de trabalho, sistemas, conectividade e infraestrutura.
-
-Paralelamente, desenvolvo projetos próprios e acadêmicos buscando transformar problemas reais em soluções utilizando software.
-
-### 💡 Principais áreas de interesse
-
-* Desenvolvimento Backend
-* APIs REST
-* Python
-* FastAPI
-* Java
-* Flutter
-* Aplicações Web
-* Inteligência Artificial
-* Visão Computacional
-* Automação
-* Infraestrutura Linux
-* Docker
-* Cloudflare
-* Banco de Dados
+> 💼 **Disponível para projetos de automação, bots de WhatsApp e sistemas web.** Fale comigo pelos contatos no final da página.
 
 ---
 
-# 🎓 Formação
+## 🚀 Tecnologias
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ADS-IFMS-blue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Status-Curso%20Concluído-success?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Colação-Aguardando%20Data-orange?style=for-the-badge">
-
-</p>
-
-### Análise e Desenvolvimento de Sistemas
-
-**Instituto Federal de Mato Grosso do Sul — IFMS**
-
-📍 Campus Corumbá
-
-Curso em fase final de conclusão, aguardando a realização da colação de grau.
-
----
-
-# 🚀 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,dart,flutter,typescript,react,postgres,mysql,docker,linux,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,dart,flutter,java,postgres,mysql,linux,docker,cloudflare,nginx,git,github,vscode" alt="Python, FastAPI, TypeScript, React, Dart, Flutter, Java, PostgreSQL, MySQL, Linux, Docker, Cloudflare, Nginx, Git, GitHub, VS Code" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge&logo=opencv&logoColor=white">
-
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<img src="https://img.shields.io/badge/Cloudflare-Infrastructure-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-
+  <img src="https://img.shields.io/badge/IFMS-ADS-2E7D32?style=for-the-badge" alt="ADS no IFMS" />
+  <img src="https://img.shields.io/badge/OpenCV-Vis%C3%A3o%20Computacional-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
+  <img src="https://img.shields.io/badge/Cloudflare-Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Tunnel" />
 </p>
 
 ---
 
-# 🌟 Projetos em destaque
+## 🌟 Projetos no ar
 
-## 🎵 Voz & Cifra
+### 🦫 CapiConcursos
 
-Plataforma desenvolvida para organização e utilização de **músicas e cifras**, criada inicialmente como projeto acadêmico e de extensão e posteriormente disponibilizada online.
+Plataforma de estudos para concursos públicos, com a capivara **Capi** como mascote.
 
-O projeto busca facilitar o acesso e a organização de repertórios musicais através de uma interface web simples e acessível.
+- 📚 **Banco com mais de 880 questões comentadas**, com explicação de cada alternativa
+- 🧭 **Rota de estudos**: diagnóstico, nota estimada por área e prioridades de acordo com o peso de cada disciplina no edital (UFMS 2026 e Receita Federal)
+- 📝 Simulados, lembretes de estudo e **resumos em PDF** produzidos pela equipe
+- ⚙️ Deploy automatizado: roda os testes, importa as questões e publica
 
-### 🔧 Tecnologias e conceitos
+`FastAPI` · `SQLAlchemy assíncrono` · `MariaDB` · `React` · `TypeScript` · `TanStack Start` · `Linux` · `Cloudflare Tunnel`
 
-* Aplicação Web
-* Gerenciamento de músicas e cifras
-* Backend e banco de dados
-* Hospedagem em ambiente web
-* Projeto acadêmico aplicado a um caso real
-
-🌐 **Projeto online:**
-https://vozecifra.nudevcb.com.br/
+🌐 **https://capiconcursos.gabineteitinerante.com.br**
 
 ---
 
-## 🤟 PonteLibras
+### 🎧 VibeX
 
-Projeto em desenvolvimento voltado ao **reconhecimento de gestos da Língua Brasileira de Sinais — Libras**.
+Aplicativo de música para Android, com **app e backend próprios**.
 
-A proposta é utilizar visão computacional e aprendizado de máquina para reconhecer sinais e auxiliar na comunicação entre pessoas surdas e ouvintes.
+- 🎶 Catálogo com artistas, álbuns e gêneros, e Home personalizada pelos seus gostos
+- 📴 Player em segundo plano, **downloads e reprodução offline**
+- 📋 Playlists, inclusive públicas, e envio para a nuvem
+- 🔄 Cadastro com código por e-mail e **atualização pelo próprio app**
 
-### 🔧 Tecnologias
+`Flutter` · `Dart` · `FastAPI` · `Python` · `MariaDB` · `Linux` · `Cloudflare`
 
-* Python
-* OpenCV
-* Machine Learning
-* MediaPipe
-* FastAPI
-* Flutter
-* Android
-* APIs REST
-
-### 🚀 Objetivos do projeto
-
-* Reconhecimento de gestos estáticos
-* Reconhecimento de sinais com movimento
-* Formação de palavras e frases
-* Integração entre aplicativo Android e API
-* Recursos de acessibilidade
-* Comunicação através de texto e voz
-
-> 🚧 Projeto atualmente em desenvolvimento.
+🌐 **https://vibex.gabineteitinerante.com.br**
 
 ---
 
-## 🏥 Pronto Saúde
+### 🎵 Voz & Cifra
 
-Sistema em desenvolvimento para auxiliar no **gerenciamento de pacientes, atendimentos e agendamentos em unidades de saúde**.
+Plataforma para organizar e usar **músicas e cifras**. Nasceu como projeto acadêmico e de extensão e hoje está online, facilitando o acesso a repertórios musicais com uma interface simples.
 
-A proposta é substituir processos baseados apenas em planilhas por uma plataforma centralizada com controle de acesso e acompanhamento das informações.
-
-### 🔧 Tecnologias
-
-* FastAPI
-* Python
-* PostgreSQL
-* SQLAlchemy
-* Alembic
-* React / TypeScript
-* Docker
-* Cloudflare
-
-### 📋 Recursos planejados
-
-* Cadastro de pacientes
-* Cadastro de unidades de saúde
-* Agendamento de consultas
-* Organização de filas por especialidade
-* Triagem
-* Prontuário
-* Perfis e permissões de usuários
-* Relatórios
-* Exportação para Excel
-* Auditoria de ações
-* Notificações
-
-> 🚧 Projeto atualmente em desenvolvimento.
+🌐 **https://vozecifra.nudevcb.com.br**
 
 ---
 
-## 🎧 VibeX
+## 🛠️ Em desenvolvimento
 
-Projeto de uma plataforma própria para gerenciamento e reprodução de músicas, composta por **aplicativo Android e backend próprio**.
+### 🏥 Pronto Saúde
 
-### 🔧 Tecnologias
+Sistema para **unidades de saúde**, que substitui planilhas por uma plataforma centralizada. Em uso piloto.
 
-* Flutter
-* FastAPI
-* Python
-* MariaDB / MySQL
-* Linux
-* Docker
-* Cloudflare
-* APIs REST
+- 👥 Cadastro de pacientes, agendamentos e organização por especialidade
+- 🤖 **Aura**, assistente de WhatsApp que atende os pacientes
+- 🔐 Perfis e permissões, **auditoria de ações**, exportação de dados e backups diários
+- 🛡️ Construído com foco em **segurança e LGPD**, por lidar com dados de saúde
 
-### 🚀 Arquitetura
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `React` · `TypeScript` · `WhatsApp Cloud API` · `Linux`
 
-O projeto envolve aplicativo mobile, API, armazenamento de mídia e infraestrutura própria utilizando servidor Linux.
-
-🌐 **Projeto online:**
-https://vibex.gabineteitinerante.com.br/
+> 🔒 Repositório privado: o sistema trata dados reais de pacientes.
 
 ---
 
-# 🧪 Outros projetos
+### 🤟 PonteLibras
 
-## 🚘 OCR / Phantera ALPR
+Reconhecimento de gestos da **Língua Brasileira de Sinais (Libras)** com visão computacional e aprendizado de máquina, para apoiar a comunicação entre pessoas surdas e ouvintes.
 
-Sistema experimental de **Reconhecimento Automático de Placas Veiculares — ALPR** utilizando visão computacional.
+- ✋ Reconhecimento de gestos estáticos e de sinais com movimento
+- 💬 Formação de palavras e frases, com saída em texto e voz
+- 📱 Aplicativo Android integrado a uma API
 
-### Tecnologias
+`Python` · `OpenCV` · `MediaPipe` · `Machine Learning` · `FastAPI` · `Flutter`
 
-* Python
-* YOLO
-* OpenCV
-* OCR
-* Processamento de imagens
-
-🔗 Repositório público:
-https://github.com/roberth-silva-lab/OCR-Phantera
+> 🚧 Em desenvolvimento.
 
 ---
 
-## 🖨️ Printer Monitor SNMP
+### 🌐 Captive Portal UniFi
 
-Sistema para monitoramento de impressoras conectadas em rede.
+Gerenciamento centralizado de acesso a redes Wi-Fi de locais diferentes, por uma plataforma web integrada ao **UniFi**.
 
-### Recursos
+`FastAPI` · `React` · `TypeScript` · `Docker` · `UniFi Network` · `Cloudflare`
 
-* Coleta de informações via SNMP
-* Monitoramento de equipamentos
-* Dashboard
-* Relatórios
-* Integração com bot
-
-### Tecnologias
-
-* Python
-* SNMP
-* Streamlit
-* Telegram Bot
-
-🔗 Repositório:
-https://github.com/roberth-silva-lab/printer-monitor-snmp
+> 🔒 Projeto privado em desenvolvimento.
 
 ---
 
-## 🌐 Captive Portal UniFi
+## 🧪 Outros projetos
 
-Sistema de gerenciamento de acesso a redes Wi-Fi utilizando infraestrutura **UniFi**.
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| 🚘 [OCR Phantera (ALPR)](https://github.com/roberth-silva-lab/OCR-Phantera) | Reconhecimento automático de placas de veículos | Python · YOLO · OpenCV · OCR |
+| 🖨️ [Printer Monitor SNMP](https://github.com/roberth-silva-lab/printer-monitor-snmp) | Monitora impressoras em rede, com dashboard, relatórios e alertas por bot | Python · SNMP · Streamlit · Telegram |
 
-O projeto está sendo desenvolvido para possibilitar gerenciamento centralizado de redes distintas através de uma plataforma web.
-
-### Tecnologias
-
-* FastAPI
-* React
-* TypeScript
-* Docker
-* UniFi Network
-* Cloudflare
-
-> 🚧 Projeto privado em desenvolvimento.
+Também faço experimentos com reconhecimento facial, classificação de chamados, monitoramento de redes e automação de processos.
 
 ---
 
-# 🔬 Projetos e estudos
+## 🖥️ Do código ao servidor
 
-Também desenvolvo experimentos e projetos envolvendo:
-
-* Reconhecimento facial
-* Reconhecimento de placas
-* Classificação de chamados
-* Monitoramento de redes
-* Estruturas de dados
-* Automação de processos
-* APIs
-* Aplicações Android
-* Sistemas corporativos
-* Servidores Linux
-
-Meu objetivo é utilizar esses projetos como forma de **aprender, testar arquiteturas e resolver problemas reais**.
-
----
-
-# 🖥️ Backend & Infraestrutura
-
-Além do desenvolvimento das aplicações, também estudo e trabalho com infraestrutura necessária para colocá-las em funcionamento.
-
-Atualmente utilizo ou estudo:
+Além de desenvolver, coloco os sistemas no ar e cuido da infraestrutura:
 
 ```text
-Linux
+Servidor Linux
 │
-├── Nginx
-├── Docker
-├── FastAPI
-├── PostgreSQL / MySQL
-├── SSH
-├── Tailscale
+├── Serviços com systemd (reinício automático e limites de recursos)
+├── FastAPI + Node.js
+├── PostgreSQL / MariaDB (usuários com permissão mínima)
+├── Backups diários + deploy com testes e rollback automático
+├── Firewall (UFW) e SSH somente com chave
 │
 └── Cloudflare
     ├── DNS
+    ├── Tunnel (nenhuma porta aberta para a internet)
     ├── Pages
-    ├── Workers
-    └── Tunnel
+    └── Workers
 ```
 
 ---
 
-
-# 🐍 Contribuições
+## 🐍 Contribuições
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/roberth-silva-lab/roberth-silva-lab/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/roberth-silva-lab/roberth-silva-lab/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" />
 </p>
 
 ---
 
-# 🌐 Contato
+## 📫 Contato
 
 <p align="center">
-
-<a href="https://github.com/roberth-silva-lab">
-<img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
-</a>
-
-<a href="https://instagram.com/roberthloogam">
-<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="mailto:[pythonocr7@gmail.com](mailto:pythonocr7@gmail.com)">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-</a>
-
+  <a href="mailto:pythonocr7@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="E-mail" />
+  </a>
+  <a href="https://instagram.com/roberthloogam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <!-- Quando tiver o LinkedIn, troque SEU-USUARIO e tire este comentário em volta:
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  -->
 </p>
-
----
 
 <p align="center">
   💻 <strong>Construindo, aprendendo e transformando ideias em software.</strong>
