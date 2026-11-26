@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, sou Roberth Arnaldo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Desenvolvimento+Backend+%26+APIs;Python+%7C+FastAPI+%7C+TypeScript;Flutter+%26+Aplica%C3%A7%C3%B5es+Web;IA+%26+Vis%C3%A3o+Computacional;Transformando+ideias+em+projetos+reais" alt="Desenvolvimento Backend & APIs · Python | FastAPI | TypeScript · Flutter & Aplicações Web · IA & Visão Computacional" />
-</p>
-
+<img src="https://readme-typing-svg.demolab.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&pause=1000&lines=Tecn%C3%B3logo+em+ADS+%C2%B7+IFMS;Backend+com+Python+e+FastAPI;Apps+Android+com+Flutter;Automa%C3%A7%C3%B5es+e+bots+de+WhatsApp;Do+c%C3%B3digo+ao+servidor+Linux" alt="Tecnólogo em ADS · IFMS · Backend com Python e FastAPI · Apps Android com Flutter · Automações e bots de WhatsApp · Do código ao servidor Linux" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,dart,flutter,java,postgres,mysql,linux,docker,cloudflare,nginx,git,github,vscode" alt="Python, FastAPI, TypeScript, React, Dart, Flutter, Java, PostgreSQL, MySQL, Linux, Docker, Cloudflare, Nginx, Git, GitHub, VS Code" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Tecn%C3%B3logo%20em%20ADS-IFMS-2E7D32?style=for-the-badge" alt="Tecnólogo em ADS pelo IFMS" /> <img src="https://img.shields.io/badge/OpenCV-Vis%C3%A3o%20Computacional-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" /> <img src="https://img.shields.io/badge/Cloudflare-Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Tunnel" /> </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=roberth-silva-lab.roberth-silva-lab" alt="Visitantes" />
 </p>
@@ -19,23 +17,6 @@ Desenvolvedor focado em **APIs, sistemas web, aplicativos Android e automações
 - 📍 Corumbá — Mato Grosso do Sul, Brasil
 
 > 💼 **Disponível para projetos de automação, bots de WhatsApp e sistemas web.** Fale comigo pelos contatos no final da página.
-
----
-
-## 🚀 Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,dart,flutter,java,postgres,mysql,linux,docker,cloudflare,nginx,git,github,vscode" alt="Python, FastAPI, TypeScript, React, Dart, Flutter, Java, PostgreSQL, MySQL, Linux, Docker, Cloudflare, Nginx, Git, GitHub, VS Code" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IFMS-ADS-2E7D32?style=for-the-badge" alt="ADS no IFMS" />
-  <img src="https://img.shields.io/badge/OpenCV-Vis%C3%A3o%20Computacional-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
-  <img src="https://img.shields.io/badge/Cloudflare-Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Tunnel" />
-</p>
-
----
 
 ## 🌟 Projetos no ar
 
